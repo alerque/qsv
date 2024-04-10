@@ -22,6 +22,7 @@ include = [
     "CHANGELOG.md",
     "resources/luau/vendor/luadate/date.lua",
 ]
+default-run = "qsv"
 
 [[bin]]
 name              = "qsv"
